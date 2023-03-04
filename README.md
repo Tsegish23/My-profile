@@ -8,7 +8,7 @@
 
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset=" https://www.google.com/search?q=sheep+images&oq=sheepimage&aqs=chrome.1.69i57j0i10i512l14.8026j0j8&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8#imgrc=J4pO3DdAnUnCXM&lnspr=W10=">
-<source media="(prefers-color-scheme: light)" srcset="  https://www.google.com/search?q=sheep+images&oq=sheepimage&aqs=chrome.1.69i57j0i10i512l14.8026j0j8&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8#imgrc=J4pO3DdAnUnCXM&lnspr=W10=">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/username/repository/blob/master/img/octocat.png">
+<source media="(prefers-color-scheme: light)" srcset="  https://github.com/username/repository/blob/master/img/octocat.png">
 <img alt="My sheep image" src="https://www.google.com/search?q=sheep+images&oq=sheepimage&aqs=chrome.1.69i57j0i10i512l14.8026j0j8&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8#imgrc=J4pO3DdAnUnCXM&lnspr=W10=">
 </picture>
