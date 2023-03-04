@@ -6,8 +6,9 @@
 -I am interested on webdesign professional
 
 
+
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+<source media="(prefers-color-scheme: dark)" srcset=" https://www.google.com/search?q=sheep+images&oq=sheepimage&aqs=chrome.1.69i57j0i10i512l14.8026j0j8&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8#imgrc=J4pO3DdAnUnCXM&lnspr=W10=">
+<source media="(prefers-color-scheme: light)" srcset="  https://www.google.com/search?q=sheep+images&oq=sheepimage&aqs=chrome.1.69i57j0i10i512l14.8026j0j8&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8#imgrc=J4pO3DdAnUnCXM&lnspr=W10=">
+<img alt="YOUR-ALT-TEXT" src="https://www.google.com/search?q=sheep+images&oq=sheepimage&aqs=chrome.1.69i57j0i10i512l14.8026j0j8&client=tablet-android-samsung-nf-rev1&sourceid=chrome-mobile&ie=UTF-8#imgrc=J4pO3DdAnUnCXM&lnspr=W10=">
 </picture>
