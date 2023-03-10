@@ -20,7 +20,7 @@ My hobbies
  <li>Nature (see below )</li>
 </ul> 
 
-Mountain - image
+Nature
  <picture>
   <source media="(min-width: 465px)" srcset="https://www.w3schools.com/howto/img_snow.jpg">
   <img src="https://www.w3schools.com/howto/img_snow.jpg">
