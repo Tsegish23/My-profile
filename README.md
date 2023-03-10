@@ -1,5 +1,5 @@
 # Hi There
-#This is My-profile
+## This is Tsegazeab 
 -I used to work on Logistics here in Belgium
 -I have diploma in banking and finance
 -I have worked as finance head 4 years in private college in Ethiopia
@@ -17,6 +17,7 @@ My hobbies
   <li>Film</li>
   <li>Music</li>
   <li>Walking</li>
+ <li>Nature (see below )</li>
 </ul> 
 
 Mountain - image
