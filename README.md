@@ -5,18 +5,18 @@
 -I have worked as finance head 4 years in private college in Ethiopia
 -I am interested on webdesign professional
 
-Ordered
+My Favourite drinks
  <ol>
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
 </ol> 
 
-Unordered
+My hobbies
  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Film</li>
+  <li>Music</li>
+  <li>Walking</li>
 </ul> 
 
 Mountain - image
